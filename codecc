@@ -70,7 +70,7 @@ void loop() {
         lcd.setCursor(0, 0);
         lcd.write((uint8_t)2);
         lcd.setCursor(0, 1);
-        lcd.print("Laugh");
+        lcd.print("don't Laugh");
       	
         break;
       	lcd.clear();
